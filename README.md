@@ -13,7 +13,7 @@ TR
   --------------
   isterseniz tek satırda scripti çalışırın. alttaki satırı terminale yapıştırıp tek kelime ile sistemi çalıştırabilirsiniz 
   --------------
-
+  NOT : lütfen aşağıda belirtilen yolu düzeltin
   | echo alias mip=pdosya/yolu/mip.sh >> ~/.bashrc && source ~/.bashrc
 
   artık "mip" komutuyla tekte çalıştırabilirsiniz. iyi günler.
@@ -32,6 +32,7 @@ EN
   do you wanna run run script to single word ?
   --------------
   paste the line.
+  NOTE: Please change path to mip.sh in line.
 
   | echo alias mip=path/to/mip.sh >> ~/.bashrc && source ~/.bashrc
 
