@@ -14,6 +14,7 @@ TR
   isterseniz tek satırda scripti çalışırın. alttaki satırı terminale yapıştırıp tek kelime ile sistemi çalıştırabilirsiniz 
   --------------
   NOT : lütfen aşağıda belirtilen yolu düzeltin
+  
   | echo alias mip=pdosya/yolu/mip.sh >> ~/.bashrc && source ~/.bashrc
 
   artık "mip" komutuyla tekte çalıştırabilirsiniz. iyi günler.
